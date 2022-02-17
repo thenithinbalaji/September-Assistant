@@ -2,6 +2,11 @@
 
 September is an open-source Windows personal assistant built-in python. Read [How to Setup?](docs/README.md) for additional information on setting up the application. 
 
+## 🏆 Install
+
++ [Download Zip File](https://github.com/thenithinbalaji/September-Assistant/releases/download/v1.0.0/September.zip)
+
+
 ## 🔮 Features 
 
 + [x] Minimalistic UI

@@ -1,5 +1,6 @@
 + Thank you for installing September.
-+ This is an open-source voice assistant. You can view its source code here https://github.com/thenithinbalaji/September-Assistant
++ This is an open-source voice assistant. You can view its source code here 
+https://github.com/thenithinbalaji/September-Assistant
 
 # Read & Follow these before using September 
 
@@ -9,9 +10,9 @@
 
 ## ⚙️ Setting up the application (Must Read, Don't Skip these)
 
-  + [The Basic Question Answering Ability will break if you skip this step](SETUP.md#the-basic-question-answering-ability-will-break-if-you-skip-this-step)   
-  + [September won't be able to open apps and browsers if you skip this step](SETUP.md#september-wont-be-able-to-open-apps-and-browsers-if-you-skip-this-step)        
-  + [Additional Debugging](SETUP.md#additional-debugging)      
+  + [The Basic Question Answering Ability will break if you skip this step](README.md#the-basic-question-answering-ability-will-break-if-you-skip-this-step)   
+  + [September won't be able to open apps and browsers if you skip this step](README.md#september-wont-be-able-to-open-apps-and-browsers-if-you-skip-this-step)        
+  + [Additional Debugging](README.md#additional-debugging)      
 
 ## 🖥️ Keybinds
 

@@ -90,6 +90,7 @@ SOFTWARE.
 + This app depends on Wolfram Alpha - a computational knowledge engine and answer engine developed by Wolfram Research.
 + The app comes with a default sample API key which is required for the Wolfram Alpha engine to function. This will become **outdated** after some time. 
 + To keep September working, you are required to generate your API key and update it in the app settings.
++ Note: Features like opening apps, searching web, playing from youtube etc. doesn't require the usage of this API.
 
 ### Steps to create and enter the new API key
 
@@ -120,6 +121,7 @@ SOFTWARE.
 + You can track your API status at https://developer.wolframalpha.com/portal/myapps.
 + Once you cross 2K monthly requests, you need to create a new API key and update it in the settings.
 + You need not change your API key if your monthly usage is less than 2K requests.   
++ Note: Features like opening apps, searching web, playing from youtube etc. doesn't require the usage of this API.
 
 <br>
 

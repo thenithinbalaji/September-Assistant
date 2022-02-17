@@ -1,6 +1,6 @@
 <h1 align = "center">September - Windows Assistant</h1>
 
-September is an open-source Windows personal assistant built-in python. Read [SETUP.md](SETUP.md) for additional information on setting up the application. 
+September is an open-source Windows personal assistant built-in python. Read [How to Setup?](setup-instructions/README.md) for additional information on setting up the application. 
 
 ## 🔮 Features 
 

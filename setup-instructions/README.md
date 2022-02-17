@@ -1,5 +1,5 @@
 + Thank you for installing September.
-+ This is an open-source voice assistant. You can view its source code here 
++ This is an open-source voice assistant. You can view its source code here                   
 https://github.com/thenithinbalaji/September-Assistant
 
 # Read & Follow these before using September 

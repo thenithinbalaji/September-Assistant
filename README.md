@@ -34,8 +34,9 @@ September is an open-source Windows personal assistant built-in python. Read [SE
   + Each window is started as a separate thread for them to work parallelly.      
   + Start and Stop Listening sounds are played using the `playsound` module.
   + The input from the user is taken either as a text from the command entry box or as audio from mic button
+![entry place](https://user-images.githubusercontent.com/73932121/154352815-6bc467bf-bc62-4409-bbac-210a00037a62.png)
   + The input is converted to text using `SpeechRecognition` module and passed to processtext function of [processtext.py](processtext.py)
-  ![entry place](https://user-images.githubusercontent.com/73932121/154352815-6bc467bf-bc62-4409-bbac-210a00037a62.png)
+  
 
 + [processtext.py](processtext.py) contains the function in which the command processing happens.       
   + The input obtained from the user in the main function is passed to the processtext function. It has an **if-else ladder** to search for specific **keywords** in the input. If the query does not match with the keywords found in the ladder, it is passed to [wolfresponse.py](wolfresponse.py)
@@ -45,7 +46,7 @@ September is an open-source Windows personal assistant built-in python. Read [SE
 
 + [texttospeech.py](texttospeech.py) uses the `pyttsx3` module to convert speech to text. 
   + After processing the query, text to speech function is called.    
-  + `Esc` Key is added as a keybind to stop text to speech for one iteration. 
+  + `Esc` Key is added as a keybind to stop text to speech for one iteration by calling texttospeech_stop function. 
 
 + [config_data.json](config_data.json) contains the values that are displayed in the September app settings in **JSON** format. It is used for storing windows application paths, wake word and the API key. 
 

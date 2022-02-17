@@ -63,7 +63,7 @@ what is the lifespan of a housefly
 ## 📝 License
 MIT License
 
-Copyright (c) 2021 Nithin Balaji
+Copyright (c) 2022 Nithin Balaji
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

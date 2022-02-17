@@ -21,11 +21,11 @@ September is an open-source Windows personal assistant built-in python. Also Rea
 
 | September uses            | For                      |
 | -----------               | -----------              |
-| Wolfram Alpha Engine      | Processing queries       |
-| Wikipedia API             | Wiki related search      |
 | Google Speech Recognition | Speech recognition       |
 | Pyttsx3                   | Text to Speech           |
 | Tkinter                   | GUI                      |
+| Wikipedia API             | Wiki related search      |
+| Wolfram Alpha Engine      | Processing queries       |
 
 ## 💻 Code Walkthrough
 

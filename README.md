@@ -1,11 +1,8 @@
-# September
+<h1 align = "center">September - Windows Assistant</h1>
 
-September is an open-source Windows personal assistant built-in python. Also Read [SETUP.md](SETUP.md) for additional information and for setting up the application.
+September is an open-source Windows personal assistant built-in python. Read [SETUP.md](SETUP.md) for additional information on setting up the application. 
 
-<p align = "center">
-  <video src = "https://user-images.githubusercontent.com/73932121/154417750-2b43a0e7-2d89-44d6-8ad5-f0ebb3f32ad1.mp4">Sample Video</video>
-</p>
-
+## 🔮 Features 
 
 + [x] Minimalistic UI
 + [x] Lightweight 
@@ -16,16 +13,19 @@ September is an open-source Windows personal assistant built-in python. Also Rea
 + [x] Mathematical Calculations 
 + [x] Human-like Conversations  
 
+<p align = "center">
+  <video src = "https://user-images.githubusercontent.com/73932121/154417750-2b43a0e7-2d89-44d6-8ad5-f0ebb3f32ad1.mp4">Sample Video</video>
+</p>
 
 ## 📚 Overview
 
-| September uses            | For                      |
-| -----------               | -----------              |
-| Google Speech Recognition | Speech recognition       |
-| Pyttsx3                   | Text to Speech           |
-| Tkinter                   | GUI                      |
-| Wikipedia API             | Wiki related search      |
-| Wolfram Alpha Engine      | Processing queries       |
+| September uses                                                       | For                      |
+| -----------                                                          | -----------              |
+| [Google Speech Recognition](https://cloud.google.com/speech-to-text) | Speech recognition       |
+| [Pyttsx3](https://pypi.org/project/pyttsx3/)                         | Text to Speech           |
+| [Tkinter](https://docs.python.org/3/library/tkinter.html)            | GUI                      |
+| [Wikipedia API](https://pypi.org/project/wikipedia/)                 | Wiki related search      |
+| [Wolfram Alpha](https://www.wolframalpha.com/)                       | Processing queries       |
 
 ## 💻 Code Walkthrough
 

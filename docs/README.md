@@ -1,3 +1,5 @@
+<h1 align = "center">September - Windows Assistant</h1>
+
 + Thank you for installing September.
 + This is an open-source voice assistant. You can view its source code here                   
 [https://github.com/thenithinbalaji/September-Assistant](https://github.com/thenithinbalaji/September-Assistant)

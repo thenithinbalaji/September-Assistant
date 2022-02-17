@@ -83,6 +83,6 @@ pip install PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 
 
 ## 📝 License
-[MIT License Copyright (c) 2021 Nithin Balaji](LICENSE.md)
+[MIT License Copyright (c) 2022 Nithin Balaji](LICENSE.md)
 
 

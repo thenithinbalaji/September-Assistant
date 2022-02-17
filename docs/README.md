@@ -97,7 +97,7 @@ SOFTWARE.
 + Create an account at [https://account.wolfram.com/login/create](https://account.wolfram.com/login/create)
 ![create account](https://user-images.githubusercontent.com/73932121/154290158-ae1c80b6-b7d9-4e04-9c99-ca80cad29352.png)
 + After creating the account, verify your mail-id. Check your inbox and spam folder. 
-+ After verifying your mail id, go to https://developer.wolframalpha.com/portal/myapps. Click on the **Sign up to get your first AppID** button and fill it out. 
++ After verifying your mail id, go to [https://developer.wolframalpha.com/portal/myapps](https://developer.wolframalpha.com/portal/myapps). Click on the **Sign up to get your first AppID** button and fill it out. 
 ![developer portal](https://user-images.githubusercontent.com/73932121/154291516-7f78a34e-a925-4dca-8cc1-6d6ce012d305.png)
 
 + Click get a **New AppID** dialog after that. You will then be presented with an API key

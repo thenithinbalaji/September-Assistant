@@ -1,6 +1,6 @@
 + Thank you for installing September.
 + This is an open-source voice assistant. You can view its source code here                   
-https://github.com/thenithinbalaji/September-Assistant
+[https://github.com/thenithinbalaji/September-Assistant](https://github.com/thenithinbalaji/September-Assistant)
 
 # Read & Follow these before using September 
 
@@ -94,7 +94,7 @@ SOFTWARE.
 
 ### Steps to create and enter the new API key
 
-+ Create an account at https://account.wolfram.com/login/create
++ Create an account at [https://account.wolfram.com/login/create](https://account.wolfram.com/login/create)
 ![create account](https://user-images.githubusercontent.com/73932121/154290158-ae1c80b6-b7d9-4e04-9c99-ca80cad29352.png)
 + After creating the account, verify your mail-id. Check your inbox and spam folder. 
 + After verifying your mail id, go to https://developer.wolframalpha.com/portal/myapps. Click on the **Sign up to get your first AppID** button and fill it out. 
@@ -118,7 +118,7 @@ SOFTWARE.
 
 ### When to change my API key again
 
-+ You can track your API status at https://developer.wolframalpha.com/portal/myapps.
++ You can track your API status at [https://developer.wolframalpha.com/portal/myapps](https://developer.wolframalpha.com/portal/myapps)
 + Once you cross 2K monthly requests, you need to create a new API key and update it in the settings.
 + You need not change your API key if your monthly usage is less than 2K requests.   
 + Note: Features like opening apps, searching web, playing from youtube etc. doesn't require the usage of this API.

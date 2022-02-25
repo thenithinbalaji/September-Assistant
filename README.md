@@ -62,7 +62,7 @@ September is an open-source Windows personal assistant built-in python. Read [Ho
 
 + [requirements.txt](requirements.txt) contains all the python modules required by the program.
 + All the assets used by the program are present in [assets folder](assets). The application won't function as intended without these assets.
-+ Built in Python 3.10.1. Use python 3.0 or greater versions for a better experience. 
++ Built in Python 3.10.1. Use python 3.3 or greater versions. 
 + Requires active internet connection. 
 + Make sure that your antivirus doesn't block the program from uploading or downloading audio stream data. (Disable antivirus :D)
 + Additionally, the `Pyaudio` module must be installed by following the below instructions. 

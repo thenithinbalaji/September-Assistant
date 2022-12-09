@@ -1,3 +1,10 @@
+<h1 align = "center">Open-Source Windows Voice Assistant</h1>
+
+September is an open-source Windows personal assistant built-in python. \
+[Download Zip File](https://github.com/thenithinbalaji/September-Assistant/releases/download/v1.0.0/September.zip) \
+[Download Windows Installer](https://github.com/thenithinbalaji/September-Assistant/releases/download/v1.0.1/Septemberv1.0.1-Setup.exe) 
+
+---
 
 + Thank you for installing September.
 + This is an open-source voice assistant. You can view its source code here                   
